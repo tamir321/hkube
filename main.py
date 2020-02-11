@@ -6,5 +6,5 @@ def start(args, hkubeapi):
     time.sleep(input)
     return {"name":"python test from git",
 
-            "version":"master margev1"}
+            "version":"new branch2-v1"}
 
