@@ -3,7 +3,7 @@ import json
 def start(args, hkubeapi):
     input=args['input'][0]
    
-    time.sleep(input)
+    time.sleep(int(input))
     return {"name":"python test from git",
             "commit":"4",
             "version":"master margev1"}
