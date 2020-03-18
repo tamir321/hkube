@@ -5,6 +5,6 @@ def start(args, hkubeapi):
    
     time.sleep(input)
     return {"name":"python test from git",
-            "commit":"2",
+            "commit":"3",
             "version":"master margev1"}
 
